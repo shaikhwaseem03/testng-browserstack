@@ -4,7 +4,7 @@
   "key": "BROWSERSTACK_ACCESS_KEY",
 
   "capabilities": {
-    "build": "New Build",
+    "build": "BROWSERSTACK_BUILD_NAME",
     "name": "Waseem_Test",
     "browserstack.debug": true
   },
