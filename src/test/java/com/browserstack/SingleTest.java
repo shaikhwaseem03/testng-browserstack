@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-String buildName = System.getenv("BROWSERSTACK_BUILD_NAME");
+//String buildName = System.getenv("BROWSERSTACK_BUILD_NAME");
 
 public class SingleTest extends BrowserStackTestNGTest {
 
